@@ -1,11 +1,11 @@
-## finalFRTpro
-## E-commers Web by shaik masthan javid vali
-
+## Cloths-Ecommers-Website
 
 Here I can create A shopping web Which Can Order Different brands and trendy offers on cloths are Available in this website called 'cara'.
 
 
-My Website link is: https://javid-4962.github.io/finalFRTpro/
+My Website link is: https://javid4962.github.io/Cloths-Ecommers-Website/
+
+Deployment link : https://clothsden.netlify.app/
 
 
 ## HOME
@@ -30,5 +30,3 @@ My Website link is: https://javid-4962.github.io/finalFRTpro/
 ![contact2](https://user-images.githubusercontent.com/111061547/198042642-82cf9be5-7723-4395-b1f4-c586037c6718.jpg)
 ![contact3](https://user-images.githubusercontent.com/111061547/198042659-f216454a-cb95-4453-b4e9-c91818f7b705.jpg)
 
-
-## Microsoft Azure Link: https://happy-dune-0571dd600.2.azurestaticapps.net
