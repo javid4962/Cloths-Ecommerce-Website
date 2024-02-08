@@ -1,4 +1,4 @@
-## Cloths-Ecommers-Website
+## Cloths-Ecommerce-Website
 
 Here I can create A shopping web Which Can Order Different brands and trendy offers on cloths are Available in this website called 'cara'.
 
