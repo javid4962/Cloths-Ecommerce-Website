@@ -2,9 +2,6 @@
 
 Here I can create A shopping web Which Can Order Different brands and trendy offers on cloths are Available in this website called 'cara'.
 
-
-My Website link is: https://javid4962.github.io/Cloths-Ecommers-Website/
-
 Deployment link : https://clothsden.netlify.app/
 
 
